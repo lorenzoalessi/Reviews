@@ -1,2 +1,2 @@
 # Reviews
-This is a simple Rewies javascript project
+This is a simple Reviews javascript project
